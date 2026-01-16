@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+
+	<input>
+		<net-file value="V7_landau_small_opt.net.xml"/>
+		<additional-files value="vehicles.xml,flows.xml,tls_9873.xml,tls_9874.xml,tls_9875.xml,tls_9876.xml,tls_15293.xml"/>
+		<gui-settings-file value="gui_settings_Landau.xml"/>
+	</input>
+	
+	<processing>
+		<time-to-teleport value="30"/>
+		<ignore-route-errors value="true"/>
+	</processing>
+	
+	<time>
+		<begin>0</begin>
+		<end>3600</end>
+		<step-length>1</step-length>
+	</time>
+	
+	<!--
+	<output>
+		<edgedata-output>output/edge_data.xml</edgedata-output>
+		<lanedata-output>output/lane_data.xml</lanedata-output>
+		<statistic-output>output/statistic.xml</statistic-output>
+	</output>
+	-->
+
+	<report>
+        <verbose value="false"/>
+        <no-warnings value="true"/>
+        <no-step-log value="true"/>
+    </report>
+	
+</configuration>

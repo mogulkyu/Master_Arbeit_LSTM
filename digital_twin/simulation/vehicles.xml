@@ -1,0 +1,4 @@
+
+<additionals>
+  <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5.0" tau="1.0" minGap="2.5" maxSpeed="19.4"/>
+</additionals>
