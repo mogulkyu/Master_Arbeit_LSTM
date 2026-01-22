@@ -1,0 +1,1029 @@
+{
+  "deviceId": "f4b2faa5-0dc3-43e5-8494-a8e736da5884",
+  "start": "2025-04-16T00:00:00+00:00",
+  "end": "2025-04-16T23:59:59+00:00",
+  "intervalLength": 900,
+  "tenantId": "00000000-0000-0000-0000-000000000000",
+  "timeFrames": [
+    {
+      "timestamp": "2025-04-16T00:00:00+00:00",
+      "detectors": [
+        {
+          "id": 1,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 2,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 3,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 4,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 5,
+          "reading": {
+            "count": {
+              "value": 15
+            },
+            "occupancy": {
+              "value": 5
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 6,
+          "reading": {
+            "count": {
+              "value": 11
+            },
+            "occupancy": {
+              "value": 46
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 7,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 8,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 9,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 10,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 11,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-04-16T00:15:00+00:00",
+      "detectors": [
+        {
+          "id": 1,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 2,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 3,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 4,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 5,
+          "reading": {
+            "count": {
+              "value": 5
+            },
+            "occupancy": {
+              "value": 2
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 6,
+          "reading": {
+            "count": {
+              "value": 14
+            },
+            "occupancy": {
+              "value": 26
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 7,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 8,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 9,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 10,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 11,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-04-16T00:30:00+00:00",
+      "detectors": [
+        {
+          "id": 1,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 2,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 3,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 4,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 5,
+          "reading": {
+            "count": {
+              "value": 2
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 6,
+          "reading": {
+            "count": {
+              "value": 6
+            },
+            "occupancy": {
+              "value": 18
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 7,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 8,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 9,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 10,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 11,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-04-16T00:45:00+00:00",
+      "detectors": [
+        {
+          "id": 1,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 2,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 3,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 4,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 5,
+          "reading": {
+            "count": {
+              "value": 9
+            },
+            "occupancy": {
+              "value": 1
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 6,
+          "reading": {
+            "count": {
+              "value": 7
+            },
+            "occupancy": {
+              "value": 21
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 7,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 8,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 9,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 10,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 11,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-04-16T01:00:00+00:00",
+      "detectors": [
+        {
+          "id": 1,
+          "reading": {
+            "count": {
+              "value": 2
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 2,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 3,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 4,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 5,
+          "reading": {
+            "count": {
+              "value": 8
+            },
+            "occupancy": {
+              "value": 1
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 6,
+          "reading": {
+            "count": {
+              "value": 12
+            },
+            "occupancy": {
+              "value": 23
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 7,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 8,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 9,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 10,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 11,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-04-16T01:15:00+00:00",
+      "detectors": [
+        {
+          "id": 1,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 2,
+          "reading": {
+            "count": {
+              "value": 2
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 3,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 4,
+          "reading": {
+            "count": {
+              "value": 3
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 5,
+          "reading": {
+            "count": {
+              "value": 2
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 6,
+          "reading": {
+            "count": {
+              "value": 7
+            },
+            "occupancy": {
+              "value": 21
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 7,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 8,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 9,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 10,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 11,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "tlc": {
+    "deviceId": "888b8a1f-f8ef-4141-9a49-36c19ef43deb",
+    "tenantId": "cff84c1d-ba49-464e-b237-e4f922e03e49",
+    "writeOcitCPD": false,
+    "city": "Landau",
+    "location": "(GSG1) Actros.Net im FG 29890 ",
+    "name": "LD-65535",
+    "alias": "LD-65535",
+    "longitude": 8.108812,
+    "latitude": 49.195811,
+    "active": false,
+    "ip": "10.45.79.194",
+    "fqdn": "fg65535.z1.landau.topic.swarco.loc",
+    "checkPeriod": 5,
+    "errorTimeout": 1800,
+    "detectorAggrPeriod": 15,
+    "readParameters": false,
+    "readDetectors": true,
+    "readSignalStates": true,
+    "readPublicTransport": false,
+    "lastStatusUpdate": "2025-03-14T10:43:57",
+    "lastContacted": "2022-07-14T11:52:00.799",
+    "intersectionPlan": "",
+    "signalGroupCount": 0,
+    "signalHeadCount": 0,
+    "activeDetectorCount": 0,
+    "outputCount": 0,
+    "modificationCount": 0,
+    "interventionCount": 1,
+    "brokenDetectorCount": 0,
+    "brokenLampCount": 0,
+    "state": "CONNECTION_ERROR",
+    "deviceInfo": {
+      "manufacturer": "SWARCO",
+      "softwareVersion": "VERSION V1.0 29.06.2018.V2.2.2",
+      "hardwareVersion": "2.0",
+      "description": "Landau Westbahnstra?e / Westring",
+      "deviceType": "ACTROS.net"
+    },
+    "hardwareStatus": {
+      "occured": "2025-03-14T10:34:14",
+      "received": "2025-03-14T10:34:14",
+      "faultDetectors": [],
+      "faultSignalHeadSection": [],
+      "persistenceOk": true,
+      "timeSource": "DCF",
+      "emergencyOff": false,
+      "doorOpen": true,
+      "powerOk": true
+    },
+    "softwareStatus": [
+      {
+        "occured": "2025-03-14T10:43:57",
+        "received": "2025-03-14T10:44:17",
+        "signalProgram": {
+          "id": "2",
+          "name": "P2"
+        },
+        "intervention": {
+          "id": "0",
+          "name": "Intervention-0"
+        },
+        "modification": [
+          {
+            "modification": {
+              "type": "TRAFFIC_DEPENDENT",
+              "id": "1",
+              "name": "TRAFFIC_DEPENDENT"
+            },
+            "state": "NONE",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "PUBLIC_TRANSPORT",
+              "id": "2",
+              "name": "PUBLIC_TRANSPORT"
+            },
+            "state": "NONE",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "INDIVIDUAL_TRAFFIC_DEPENDENT",
+              "id": "3",
+              "name": "INDIVIDUAL_TRAFFIC_DEPENDENT"
+            },
+            "state": "NONE",
+            "projectNumber": -1
+          }
+        ],
+        "node": {
+          "signalGroups": [],
+          "detectors": [],
+          "outputs": [],
+          "signalPrograms": [
+            {
+              "id": "0",
+              "name": "Lokal"
+            },
+            {
+              "id": "1",
+              "name": "P1"
+            },
+            {
+              "id": "2",
+              "name": "P2"
+            },
+            {
+              "id": "3",
+              "name": "P3"
+            },
+            {
+              "id": "4",
+              "name": "P4"
+            },
+            {
+              "id": "5",
+              "name": "P5"
+            },
+            {
+              "id": "6",
+              "name": "P6"
+            },
+            {
+              "id": "7",
+              "name": "P7"
+            },
+            {
+              "id": "8",
+              "name": "P8"
+            }
+          ],
+          "modifications": [],
+          "interventions": [
+            {
+              "id": "0",
+              "name": "Intervention-0"
+            }
+          ],
+          "subNodes": [],
+          "id": "0",
+          "name": "Knoten-0"
+        },
+        "operationMode": "LOCAL_TIMED",
+        "failure": "INTERNAL_FAILURE",
+        "nodeState": "ENABLED",
+        "subNodeStates": [
+          {
+            "subNode": {
+              "id": "0",
+              "name": "TK-0"
+            },
+            "state": "ENABLED"
+          }
+        ]
+      }
+    ],
+    "addInfo": [
+      {
+        "visible": true,
+        "key": "iOevCleanup",
+        "value": "35"
+      },
+      {
+        "visible": true,
+        "key": "psb",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "idMessageCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "idStateCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "AutoOk",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "aSigEnd",
+        "value": "01/01/99 12:00 00 PM"
+      },
+      {
+        "visible": true,
+        "key": "aSigStart",
+        "value": "01/01/00 12:00 00 AM"
+      },
+      {
+        "visible": true,
+        "key": "iSigCleanup",
+        "value": "365"
+      },
+      {
+        "visible": true,
+        "key": "notiz",
+        "value": "EQ 2009890\nActros.Net im Knoten 18, Uhrzeit Actros.Net am 14.3.25 korrigiert/gestellt"
+      }
+    ],
+    "child": false
+  },
+  "deviceGroupIds": [
+    "d2e29342-bbe9-4784-83b6-278c998c62b8"
+  ],
+  "authGuid": "4b7f9554-720d-4fdf-977a-d19fe9426963"
+}

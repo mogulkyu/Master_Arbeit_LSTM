@@ -1,0 +1,271 @@
+{
+  "tlc": {
+    "deviceId": "a530ce56-0f1a-4f53-95d4-8afc084d5cf1",
+    "tenantId": "cff84c1d-ba49-464e-b237-e4f922e03e49",
+    "city": "Landau",
+    "location": "LSA40, L509 Queichheimer Br\u00fccke",
+    "name": "LD-LSA40 (L509 Queichheimer Br\u00fccke)",
+    "alias": "LD-LSA40",
+    "longitude": 8.128425,
+    "latitude": 49.195412,
+    "active": true,
+    "ip": "172.23.185.150",
+    "fqdn": "fg29870.z1.landau.mycity.swarco.loc",
+    "checkPeriod": 5,
+    "errorTimeout": 1800,
+    "detectorAggrPeriod": 15,
+    "readParameters": false,
+    "readDetectors": true,
+    "readSignalStates": true,
+    "readPublicTransport": true,
+    "lastStatusUpdate": "2025-04-15T20:00:16",
+    "lastContacted": "2025-04-16T00:52:21.1",
+    "signalGroupCount": 4,
+    "signalHeadCount": 8,
+    "activeDetectorCount": 1,
+    "outputCount": 1,
+    "modificationCount": 0,
+    "interventionCount": 1,
+    "brokenDetectorCount": 0,
+    "brokenLampCount": 0,
+    "state": "CONNECTION_ERROR",
+    "deviceInfo": {
+      "manufacturer": "SWARCO",
+      "softwareVersion": "2009870, LSA 40, L509 - Queichheimer Br.V5.18.7",
+      "hardwareVersion": "2.0",
+      "description": "Landau, LSA 40 (L509 Queichheimer Br\u00fccke)",
+      "deviceType": "ACTROS (Actros_NSG_ProjectRevision_1.154.1.12.1.53.1.8)"
+    },
+    "hardwareStatus": {
+      "occured": "2025-03-19T00:42:37",
+      "received": "2025-03-19T00:42:37",
+      "faultDetectors": [],
+      "faultSignalHeadSection": [],
+      "persistenceOk": true,
+      "timeSource": "CONTROL_CENTER",
+      "emergencyOff": false,
+      "doorOpen": false,
+      "powerOk": true
+    },
+    "softwareStatus": [
+      {
+        "occured": "2025-04-15T20:00:16",
+        "received": "2025-04-15T20:00:42",
+        "signalProgram": {
+          "id": "0",
+          "name": "P0"
+        },
+        "intervention": {
+          "id": "0",
+          "name": "Intervention-0"
+        },
+        "modification": [
+          {
+            "modification": {
+              "type": "TRAFFIC_DEPENDENT",
+              "id": "1",
+              "name": "TRAFFIC_DEPENDENT"
+            },
+            "state": "DISABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "PUBLIC_TRANSPORT",
+              "id": "2",
+              "name": "PUBLIC_TRANSPORT"
+            },
+            "state": "DISABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "INDIVIDUAL_TRAFFIC_DEPENDENT",
+              "id": "3",
+              "name": "INDIVIDUAL_TRAFFIC_DEPENDENT"
+            },
+            "state": "DISABLED",
+            "projectNumber": -1
+          }
+        ],
+        "node": {
+          "signalGroups": [
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K1a"
+                }
+              ],
+              "id": "1",
+              "name": "K1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K2"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K2a"
+                }
+              ],
+              "id": "2",
+              "name": "K2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F1a"
+                }
+              ],
+              "id": "3",
+              "name": "F1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F2"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F2a"
+                }
+              ],
+              "id": "4",
+              "name": "F2"
+            }
+          ],
+          "detectors": [
+            {
+              "detectorType": "NONE",
+              "id": "1",
+              "name": "T1_3s"
+            }
+          ],
+          "outputs": [
+            {
+              "id": "1",
+              "name": "T1_3_Quitt"
+            }
+          ],
+          "signalPrograms": [
+            {
+              "id": "1",
+              "name": "P1: P1_tva"
+            },
+            {
+              "id": "2",
+              "name": "P2: P2_tva"
+            },
+            {
+              "id": "3",
+              "name": "P3: P3_tva"
+            },
+            {
+              "id": "4",
+              "name": "P4: P4_tva"
+            },
+            {
+              "id": "5",
+              "name": "P5: P5_vva"
+            }
+          ],
+          "modifications": [],
+          "interventions": [
+            {
+              "id": "0",
+              "name": "Intervention-0"
+            }
+          ],
+          "subNodes": [],
+          "id": "0",
+          "name": "Knoten-0"
+        },
+        "operationMode": "LOCAL_TIMED",
+        "failure": "NO_FAILURE",
+        "nodeState": "DISABLED_DEFAULT",
+        "subNodeStates": [
+          {
+            "subNode": {
+              "id": "0",
+              "name": "TK-0"
+            },
+            "state": "DISABLED_DEFAULT"
+          }
+        ]
+      }
+    ],
+    "addInfo": [
+      {
+        "visible": true,
+        "key": "iOevCleanup",
+        "value": "35"
+      },
+      {
+        "visible": true,
+        "key": "psb",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "idMessageCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "idStateCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "AutoOk",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "aSigEnd",
+        "value": "01/01/99 12:00 00 PM"
+      },
+      {
+        "visible": true,
+        "key": "aSigStart",
+        "value": "01/01/00 12:00 00 AM"
+      },
+      {
+        "visible": true,
+        "key": "iSigCleanup",
+        "value": "365"
+      },
+      {
+        "visible": true,
+        "key": "notiz",
+        "value": "EQ 2009870"
+      }
+    ],
+    "child": false
+  },
+  "deviceGroupIds": [
+    "d2e29342-bbe9-4784-83b6-278c998c62b8"
+  ],
+  "authGuid": "652c6b15-3629-4f9c-a324-b403c5437147"
+}

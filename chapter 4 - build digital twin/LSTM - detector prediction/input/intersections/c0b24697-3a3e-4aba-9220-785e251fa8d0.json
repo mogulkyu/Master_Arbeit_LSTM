@@ -1,0 +1,361 @@
+{
+  "tlc": {
+    "deviceId": "c0b24697-3a3e-4aba-9220-785e251fa8d0",
+    "tenantId": "cff84c1d-ba49-464e-b237-e4f922e03e49",
+    "city": "Landau",
+    "location": "LSA11, Maximilianstr. / Damm\u00fchlstr. / Wieslauterstr.",
+    "name": "LD-LSA11 (Maximilian-/Damm\u00fchlstr.)",
+    "alias": "LD-LSA11",
+    "longitude": 8.124439,
+    "latitude": 49.201357,
+    "active": true,
+    "ip": "172.23.185.242",
+    "fqdn": "fg29867.z1.landau.mycity.swarco.loc",
+    "checkPeriod": 5,
+    "errorTimeout": 1800,
+    "detectorAggrPeriod": 15,
+    "readParameters": false,
+    "readDetectors": true,
+    "readSignalStates": true,
+    "readPublicTransport": true,
+    "lastStatusUpdate": "2025-06-04T09:30:53",
+    "lastContacted": "2025-06-04T09:43:44.736",
+    "signalGroupCount": 10,
+    "signalHeadCount": 15,
+    "activeDetectorCount": 4,
+    "outputCount": 2,
+    "modificationCount": 0,
+    "interventionCount": 1,
+    "brokenDetectorCount": 0,
+    "brokenLampCount": 0,
+    "state": "NO_FAILURE",
+    "deviceInfo": {
+      "manufacturer": "SWARCO",
+      "softwareVersion": "2009867, 11 - Dammuehlstr. - Maximilian.V6.7.2",
+      "hardwareVersion": "3.0",
+      "description": "Landau, LSA 11 (Maximilianstr. / Damm\u00fchlstr. / Wieslauterstr.)",
+      "deviceType": "ACTROS (Actros_NSG_ProjectRevision_1.154.1.12.1.53.1.10)"
+    },
+    "hardwareStatus": {
+      "occured": "2025-04-07T08:05:52",
+      "received": "2025-04-07T08:05:52",
+      "faultDetectors": [],
+      "faultSignalHeadSection": [],
+      "persistenceOk": true,
+      "timeSource": "CONTROL_CENTER",
+      "emergencyOff": false,
+      "doorOpen": false,
+      "powerOk": true
+    },
+    "softwareStatus": [
+      {
+        "occured": "2025-06-04T09:30:53",
+        "received": "2025-06-04T09:30:57",
+        "signalProgram": {
+          "id": "4",
+          "name": "P4: SZP_4"
+        },
+        "intervention": {
+          "id": "0",
+          "name": "Intervention-0"
+        },
+        "modification": [
+          {
+            "modification": {
+              "type": "TRAFFIC_DEPENDENT",
+              "id": "1",
+              "name": "TRAFFIC_DEPENDENT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "PUBLIC_TRANSPORT",
+              "id": "2",
+              "name": "PUBLIC_TRANSPORT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "INDIVIDUAL_TRAFFIC_DEPENDENT",
+              "id": "3",
+              "name": "INDIVIDUAL_TRAFFIC_DEPENDENT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          }
+        ],
+        "node": {
+          "signalGroups": [
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K1a"
+                },
+                {
+                  "headSection": [],
+                  "id": "3",
+                  "name": "K1b"
+                }
+              ],
+              "id": "1",
+              "name": "K1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K2"
+                }
+              ],
+              "id": "2",
+              "name": "K2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K3"
+                }
+              ],
+              "id": "3",
+              "name": "K3"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K4"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "K4a"
+                }
+              ],
+              "id": "4",
+              "name": "K4"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "K5d"
+                }
+              ],
+              "id": "5",
+              "name": "K5d"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F1a"
+                }
+              ],
+              "id": "6",
+              "name": "F1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F2"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F2a"
+                }
+              ],
+              "id": "7",
+              "name": "F2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl1"
+                }
+              ],
+              "id": "8",
+              "name": "Bl1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl2"
+                }
+              ],
+              "id": "9",
+              "name": "Bl2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl5"
+                }
+              ],
+              "id": "10",
+              "name": "Bl5"
+            }
+          ],
+          "detectors": [
+            {
+              "detectorType": "NONE",
+              "id": "1",
+              "name": "D1"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "2",
+              "name": "D2"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "3",
+              "name": "FT2"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "4",
+              "name": "FT2a"
+            }
+          ],
+          "outputs": [
+            {
+              "id": "1",
+              "name": "RM_FT2"
+            },
+            {
+              "id": "2",
+              "name": "RM_FT2a"
+            }
+          ],
+          "signalPrograms": [
+            {
+              "id": "1",
+              "name": "P1: SZP_1"
+            },
+            {
+              "id": "2",
+              "name": "P2: SZP_2"
+            },
+            {
+              "id": "3",
+              "name": "P3: SZP_3"
+            },
+            {
+              "id": "4",
+              "name": "P4: SZP_4"
+            },
+            {
+              "id": "8",
+              "name": "P8: SZP_8"
+            }
+          ],
+          "modifications": [],
+          "interventions": [
+            {
+              "id": "0",
+              "name": "Intervention-0"
+            }
+          ],
+          "subNodes": [],
+          "id": "0",
+          "name": "Knoten-0"
+        },
+        "operationMode": "LOCAL_TIMED",
+        "failure": "NO_FAILURE",
+        "nodeState": "ENABLED",
+        "subNodeStates": [
+          {
+            "subNode": {
+              "id": "0",
+              "name": "TK-0"
+            },
+            "state": "ENABLED"
+          }
+        ]
+      }
+    ],
+    "addInfo": [
+      {
+        "visible": true,
+        "key": "iOevCleanup",
+        "value": "35"
+      },
+      {
+        "visible": true,
+        "key": "psb",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "idMessageCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "idStateCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "AutoOk",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "aSigEnd",
+        "value": "01/01/99 12:00 00 PM"
+      },
+      {
+        "visible": true,
+        "key": "aSigStart",
+        "value": "01/01/00 12:00 00 AM"
+      },
+      {
+        "visible": true,
+        "key": "iSigCleanup",
+        "value": "365"
+      },
+      {
+        "visible": true,
+        "key": "notiz",
+        "value": "EQ 2009867"
+      }
+    ],
+    "child": false
+  },
+  "deviceGroupIds": [
+    "d2e29342-bbe9-4784-83b6-278c998c62b8"
+  ],
+  "authGuid": "ad0f5d00-1cba-4593-9541-d3ac339b23ba"
+}

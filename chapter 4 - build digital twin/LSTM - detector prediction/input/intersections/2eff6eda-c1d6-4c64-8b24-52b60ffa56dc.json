@@ -1,0 +1,455 @@
+{
+  "tlc": {
+    "deviceId": "2eff6eda-c1d6-4c64-8b24-52b60ffa56dc",
+    "tenantId": "cff84c1d-ba49-464e-b237-e4f922e03e49",
+    "writeOcitCPD": false,
+    "city": "Landau",
+    "location": "Hainbachstr.- Damm\u00fchlstr. / Horststr.",
+    "name": "LD-LSA3",
+    "alias": "LD-LSA3",
+    "longitude": 8.124445,
+    "latitude": 49.203476,
+    "active": true,
+    "ip": "10.45.10.146",
+    "fqdn": "fg29886.z1.landau.topic.swarco.loc",
+    "checkPeriod": 5,
+    "errorTimeout": 1800,
+    "detectorAggrPeriod": 15,
+    "readParameters": false,
+    "readDetectors": false,
+    "readSignalStates": true,
+    "readPublicTransport": true,
+    "lastStatusUpdate": "2025-06-04T09:30:28",
+    "lastContacted": "2025-06-04T09:44:47.544",
+    "intersectionPlan": "",
+    "signalGroupCount": 11,
+    "signalHeadCount": 24,
+    "activeDetectorCount": 13,
+    "outputCount": 1,
+    "modificationCount": 0,
+    "interventionCount": 1,
+    "brokenDetectorCount": 0,
+    "brokenLampCount": 0,
+    "state": "NO_FAILURE",
+    "deviceInfo": {
+      "manufacturer": "SWARCO",
+      "softwareVersion": "2009886, LSA 3, Hainbachstr. / Dammuehl.V6.8",
+      "hardwareVersion": "3.0",
+      "description": "Landau K3 - Hainbach-/Damm\u00fchl-/Horststr.",
+      "deviceType": "ACTROS (Actros_NSG_ProjectRevision_1.154.1.12.1.53.1.12)"
+    },
+    "hardwareStatus": {
+      "occured": "2025-05-26T10:01:53",
+      "received": "2025-05-26T10:01:53",
+      "faultDetectors": [],
+      "faultSignalHeadSection": [],
+      "persistenceOk": true,
+      "timeSource": "DCF",
+      "emergencyOff": false,
+      "doorOpen": false,
+      "powerOk": true
+    },
+    "softwareStatus": [
+      {
+        "occured": "2025-06-04T09:30:28",
+        "received": "2025-06-04T09:30:32",
+        "signalProgram": {
+          "id": "4",
+          "name": "P4"
+        },
+        "intervention": {
+          "id": "0",
+          "name": "Intervention-0"
+        },
+        "modification": [
+          {
+            "modification": {
+              "type": "TRAFFIC_DEPENDENT",
+              "id": "1",
+              "name": "TRAFFIC_DEPENDENT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "PUBLIC_TRANSPORT",
+              "id": "2",
+              "name": "PUBLIC_TRANSPORT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          },
+          {
+            "modification": {
+              "type": "INDIVIDUAL_TRAFFIC_DEPENDENT",
+              "id": "3",
+              "name": "INDIVIDUAL_TRAFFIC_DEPENDENT"
+            },
+            "state": "ENABLED",
+            "projectNumber": -1
+          }
+        ],
+        "node": {
+          "signalGroups": [
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "_1"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "1a"
+                }
+              ],
+              "id": "1",
+              "name": "_1"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "_2"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "2a"
+                }
+              ],
+              "id": "2",
+              "name": "_2"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "_3"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "3a"
+                },
+                {
+                  "headSection": [],
+                  "id": "3",
+                  "name": "3b"
+                }
+              ],
+              "id": "3",
+              "name": "_3"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "_5"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "5a"
+                },
+                {
+                  "headSection": [],
+                  "id": "3",
+                  "name": "5b"
+                }
+              ],
+              "id": "4",
+              "name": "_5"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "_6"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "6a"
+                }
+              ],
+              "id": "5",
+              "name": "_6"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "_7"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "7a"
+                },
+                {
+                  "headSection": [],
+                  "id": "3",
+                  "name": "7b"
+                }
+              ],
+              "id": "6",
+              "name": "_7"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F1_F1a"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F1a"
+                }
+              ],
+              "id": "7",
+              "name": "F1_F1a"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F2_F2a"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F2a"
+                }
+              ],
+              "id": "8",
+              "name": "F2_F2a"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F3_F3a"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F3a"
+                }
+              ],
+              "id": "9",
+              "name": "F3_F3a"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "F4_F4a"
+                },
+                {
+                  "headSection": [],
+                  "id": "2",
+                  "name": "F4a"
+                }
+              ],
+              "id": "10",
+              "name": "F4_F4a"
+            },
+            {
+              "signalHead": [
+                {
+                  "headSection": [],
+                  "id": "1",
+                  "name": "Bl1"
+                }
+              ],
+              "id": "11",
+              "name": "Bl1"
+            }
+          ],
+          "detectors": [
+            {
+              "detectorType": "NONE",
+              "id": "1",
+              "name": "IS2_WBK1"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "2",
+              "name": "IS6_WBK2"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "3",
+              "name": "CAM_Ln9_50m"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "4",
+              "name": "CAM_Ln9_150m"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "5",
+              "name": "CAM_Ln9_300m"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "6",
+              "name": "CAM_Ln9_415m"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "7",
+              "name": "CAM_Ln6_50m"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "8",
+              "name": "CAM_Ln6_135m"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "9",
+              "name": "CAM_Ln7"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "10",
+              "name": "FW"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "11",
+              "name": "WBK1_Err"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "12",
+              "name": "WBK2_Err"
+            },
+            {
+              "detectorType": "NONE",
+              "id": "13",
+              "name": "CAM_Ln8"
+            }
+          ],
+          "outputs": [
+            {
+              "id": "1",
+              "name": "Q_Einsatz"
+            }
+          ],
+          "signalPrograms": [
+            {
+              "id": "1",
+              "name": "P1"
+            },
+            {
+              "id": "2",
+              "name": "P2"
+            },
+            {
+              "id": "3",
+              "name": "P3"
+            },
+            {
+              "id": "4",
+              "name": "P4"
+            },
+            {
+              "id": "27",
+              "name": "P27"
+            }
+          ],
+          "modifications": [],
+          "interventions": [
+            {
+              "id": "0",
+              "name": "Intervention-0"
+            }
+          ],
+          "subNodes": [],
+          "id": "0",
+          "name": "Knoten-0"
+        },
+        "operationMode": "LOCAL_TIMED",
+        "failure": "NO_FAILURE",
+        "nodeState": "ENABLED",
+        "subNodeStates": [
+          {
+            "subNode": {
+              "id": "0",
+              "name": "TK-0"
+            },
+            "state": "ENABLED"
+          }
+        ]
+      }
+    ],
+    "addInfo": [
+      {
+        "visible": true,
+        "key": "iOevCleanup",
+        "value": "35"
+      },
+      {
+        "visible": true,
+        "key": "psb",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "idMessageCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "idStateCleanup",
+        "value": "2000"
+      },
+      {
+        "visible": true,
+        "key": "AutoOk",
+        "value": "0"
+      },
+      {
+        "visible": true,
+        "key": "aSigEnd",
+        "value": "01/01/99 12:00 00 PM"
+      },
+      {
+        "visible": true,
+        "key": "aSigStart",
+        "value": "01/01/00 12:00 00 AM"
+      },
+      {
+        "visible": true,
+        "key": "iSigCleanup",
+        "value": "365"
+      },
+      {
+        "visible": true,
+        "key": "notiz",
+        "value": "LTE-Router(TK525L) mit UMTS-Karte f\u00fcr \r\nLSA und V2X-Roadside-Unit \r\n\r\n"
+      }
+    ],
+    "child": false
+  },
+  "deviceGroupIds": [
+    "d2e29342-bbe9-4784-83b6-278c998c62b8"
+  ],
+  "authGuid": "e6498bd5-723d-4495-9c56-9c1e25204f71"
+}

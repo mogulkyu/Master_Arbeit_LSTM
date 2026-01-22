@@ -1,0 +1,254 @@
+{
+  "deviceId": "cc70ddab-22f6-40e8-b430-47839e6cd73b",
+  "start": "2025-03-13T00:00:00+00:00",
+  "end": "2025-03-13T23:59:59+00:00",
+  "intervalLength": 900,
+  "tenantId": "00000000-0000-0000-0000-000000000000",
+  "timeFrames": [
+    {
+      "timestamp": "2025-03-13T23:45:00+00:00",
+      "detectors": [
+        {
+          "id": 1,
+          "reading": {
+            "count": {
+              "value": 7
+            },
+            "occupancy": {
+              "value": 1
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 2,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 3,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 4,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 5,
+          "reading": {
+            "count": {
+              "value": 3
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 6,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 7,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 8,
+          "reading": {
+            "count": {
+              "value": 4
+            },
+            "occupancy": {
+              "value": 1
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 9,
+          "reading": {
+            "count": {
+              "value": 1
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 10,
+          "reading": {
+            "count": {
+              "value": 4
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 11,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 12,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 13,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 14,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 15,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        },
+        {
+          "id": 16,
+          "reading": {
+            "count": {
+              "value": 0
+            },
+            "occupancy": {
+              "value": 0
+            },
+            "velocity": {
+              "value": 0
+            }
+          },
+          "classified": []
+        }
+      ]
+    }
+  ]
+}
